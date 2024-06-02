@@ -38,7 +38,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/alx-backend-javascript.git
+   git clone https://github.com/gidambayiantny/alx-backend-javascript.git
 
    ## Installation
 
